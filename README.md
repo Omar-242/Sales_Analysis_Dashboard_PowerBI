@@ -225,9 +225,11 @@ This Ecommerce Sales Analysis Dashboard provides a comprehensive view of Madhav 
 
 ---
 
-### Author
 
-**Omar Chowdhury**
-Data Analytics Project using Power BI
-GitHub Portfolio Project 🚀
+## Author
+
+**Omar Faruque Chowdhury**
+
+PowerBI Data Analysis Project – Sales Dashboard Development
+
 **Inspired by Rishabh Mishra**
